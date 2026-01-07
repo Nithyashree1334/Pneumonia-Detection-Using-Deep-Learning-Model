@@ -1,9 +1,9 @@
 # Pneumonia_Detection_App
 
-Author: Shreyas J
+Author: Nithyashree S
 Department: Computer Science and Design, 4th Year, Engineering
 Institution: S J C Institute of Technology
-Contact: shreyasj6675@gmail.com
+Contact: nithyashree1334@gmail.com
 
 🩺 Project Overview
 This project is a professional-grade web application for automated pneumonia detection from chest X-ray images using deep learning. It leverages a fine-tuned InceptionV3 model to deliver high accuracy (94%) and features an intuitive, risk-tiered (green/yellow/red) interface so users receive actionable clinical feedback instantly.
@@ -85,12 +85,11 @@ For public deployment, ensure debug=False and set up HTTPS.
 📑 Citation
 If you use this project for academic or demonstration purposes, please acknowledge:
 
-Shreyas J, Department of Computer Science and Design, S J C Institute of Technology.
+Nithyashree S, Department of Computer Science and Design, S J C Institute of Technology.
 
 🤝 Contributing & Issues
 Contributions: PRs and suggestions are welcome!
 
-For bugs/help: Please open an issue or email shreyasj6675@gmail.com
 
 🔒 Disclaimer
 This tool is intended for educational and research purposes only.
