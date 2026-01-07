@@ -1,0 +1,10 @@
+Flask
+gunicorn
+tensorflow
+numpy
+pillow
+werkzeug
+scikit-learn
+matplotlib
+requests
+utils
